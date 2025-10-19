@@ -8,7 +8,7 @@ Beyond my coursework, I'm committed to environmental action. I co-founded the **
 
 Here are a few things I've built:
 
-#### 🌦️ Deep Learning Weather Forecast
+#### 🌦️ Deep Learning Weather Forecast (Newest project, in progress)
 A deep learning system built with PyTorch to forecast weather conditions using the massive ERA5 climate dataset. A key part of the project involved building an efficient data pipeline using `xarray` and `Dask` to handle and process the large-scale climate data for model training.
 
 [**`View on GitHub →`**](https://github.com/JonathanZul/py-weather-forecast)
@@ -46,5 +46,6 @@ As co-founder and Treasurer of the **UPEI Climate Action Association**, I help l
 ## Get in Touch
 
 -   🌐 **Website:** [jonathanzul.me](https://jonathanzul.me)
+    - **Note:** I'm refactoring some parts of the site, so you may not be able to see the "Projects" sections, but feel free to explore the rest of the page :)
 -   💼 **LinkedIn:** [linkedin.com/in/jonathan-zul-luna](https://linkedin.com/in/jonathan-zul-luna)
 -   ✉️ **Email:** [jonathanzullna.work@outlook.com](mailto:jonathanzullna.work@outlook.com)
